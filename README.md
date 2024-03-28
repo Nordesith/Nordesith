@@ -28,7 +28,7 @@ Abaixo algumas das minhas habilidades atuais: \
 Meus estatus do github: \
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nordesith&layout=compact&bg_color=000&border_color=30A3DC&title_color=8f0b1b&text_color=FFF) \
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nordesith&theme=transparent&bg_color=8f0b1b&border_color=0b33b5&show_icons=true&icon_color=0e6b1f&title_color=ffffff&text_color=000) \
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nordesith&theme=shadow-red&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) \
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nordesith&theme=shadow-red&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) 
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Nordesith&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=8f0b1b&text_color=FFF)](https://github.com/Nordesith/dio-lab-open-source)
