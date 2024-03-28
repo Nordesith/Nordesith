@@ -1,5 +1,5 @@
 # Rútilo Hahn - AKA: Nordesith
-✌ Olá!
+✌ Olá! \
 Sou Engenheiro Eletricista e Dev Full-Stack, buscando sempre aprimorar minhas habilidades como desenvolvedor.  
 Apaixonado por tecnologia e em busca de novos desafios sempre!
 
