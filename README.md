@@ -1,7 +1,7 @@
 # Rútilo Hahn - AKA: Nordesith
 ✌ Olá!
-Sou estudante de Engenharia Elétrica na UFC, buscando completar meu conhecimento com o estudo de programação.  
-Além disso, também sou streamer, mas esse é apenas um hobbie!
+Sou Engenheiro Eletricista e Dev Full-Stack, buscando sempre aprimorar minhas habilidades como desenvolvedor.  
+Apaixonado por tecnologia e em busca de novos desafios sempre!
 
 ## Conecte-se comigo
 Alguns contatos para quem quiser falar comigo diretamente:
