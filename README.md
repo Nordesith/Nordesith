@@ -1,7 +1,11 @@
 # Rútilo Hahn - AKA: Nordesith
 ✌ Olá! \
-Sou Engenheiro Eletricista e Dev Full-Stack, buscando sempre aprimorar minhas habilidades como desenvolvedor.  
+  Sou Engenheiro Eletricista e Desenvolvedor Web que acredita no poder transformador da web para remodelar como as pessoas se conectam com as empresas, buscando sempre aprimorar minhas habilidades como desenvolvedor.  
 Apaixonado por tecnologia e em busca de novos desafios sempre!
+  Sempre me questiono 'Que problema estamos resolvendo para o cliente?' para garantir o máximo valor no meu trabalho.
+Estou comprometido com a aprendizagem contínua, com um nível intermediário de proficiência em inglês (British Council - B2) que estou ativamente trabalhando para melhorar.
+  Atualmente, busco ativamente oportunidades remotas que me permitam contribuir com minha expertise e paixão para projetos.
+  Vamos nos conectar e explorar como podemos colaborar para criar experiências web excepcionais!
 
 ## Conecte-se comigo
 Alguns contatos para quem quiser falar comigo diretamente:
