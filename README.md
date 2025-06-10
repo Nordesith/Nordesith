@@ -12,10 +12,6 @@ Alguns contatos para quem quiser falar comigo diretamente:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/r%C3%BAtilo-hahn-352a0410a/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/rutilohahn/)
-
-Links para minha página na Twitch e meu canal do discord:
-
-[![Twitch](https://img.shields.io/badge/Twitch-000?style=for-the-badge&logo=Twitch)](https://www.twitch.tv/nordesith)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discord.gg/nCrJKG6nbD)
 
 ## Habilidades
